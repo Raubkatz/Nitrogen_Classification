@@ -1,5 +1,7 @@
 # Analyzing the Impact of Nitrogen Fertilization on Grassland Biomass: A Machine Learning Approach
 
+Author: Dr. techn. Sebastian Raubitzek
+
 ## Overview
 
 This repository implements a multi‑stage machine learning pipeline to predict grassland biomass yield from detailed management records collected by the Biodiversity Exploratories (Germany, 2009–2016). We combine plot‑level dry‐matter measurements with 116 management variables—including mowing frequency, grazing pressure, and mineral & organic nitrogen inputs—to train CatBoost classifiers optimized via Bayesian search and balanced with ADASYN oversampling.
