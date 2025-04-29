@@ -83,7 +83,7 @@ def main():
     # Data Loading & Cleaning
     # ---------------------
     print("[INFO] Loading data from Grassland_Biomass_Merged_mv.csv...")
-    data = pd.read_csv('./Grassland_Biomass_Merged_mv.csv')
+    data = pd.read_csv('./Grassland_Biomass_Merged_mv_final.csv')
     #data = pd.read_csv('./Grassland_Biomass_Merged_median.csv')
     target_col = 'Biomass'
     if target_col not in data.columns:
