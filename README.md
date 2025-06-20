@@ -1,5 +1,7 @@
 # Analyzing the Impact of Nitrogen Fertilization on Grassland Biomass: A Machine Learning Approach
 
+preprint:https://www.preprints.org/frontend/manuscript/2cfcc29eb4c6e879527973baeaa444f2/download_pub
+
 Author: Dr. techn. Sebastian Raubitzek
 
 ## Overview
